@@ -1,2 +1,0 @@
-cd "C:\Program Files\MySQL\MySQL Server 8.2\bin"
-mysqldump --user=root --password=minhtruong --databases project03 >"D:\Study\Master\Course 3 - Database Design and Implementation (SF)\Assignment\BackupData\backup.sql"
