@@ -1,0 +1,2 @@
+CHECK TABLE project03.buyer FAST QUICK;
+
